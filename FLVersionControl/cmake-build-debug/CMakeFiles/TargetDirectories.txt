@@ -1,0 +1,3 @@
+C:/Users/owner/CLionProjects/FLVersionControl/cmake-build-debug/CMakeFiles/FLVersionControl.dir
+C:/Users/owner/CLionProjects/FLVersionControl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/owner/CLionProjects/FLVersionControl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

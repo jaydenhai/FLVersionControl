@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/owner/CLionProjects/FLVersionControl/cmake-build-debug",
+  "command": "\"D:\\CLion 2026.2.3.1\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\FLVersionControl.dir\\src\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\FLVersionControl.dir\\src\\main.cpp.obj -c C:\\Users\\owner\\CLionProjects\\FLVersionControl\\src\\main.cpp",
+  "file": "C:/Users/owner/CLionProjects/FLVersionControl/src/main.cpp",
+  "output": "C:/Users/owner/CLionProjects/FLVersionControl/cmake-build-debug/CMakeFiles/FLVersionControl.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/owner/CLionProjects/FLVersionControl/cmake-build-debug",
+  "command": "\"D:\\CLion 2026.2.3.1\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\FLVersionControl.dir\\src\\Repository.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\FLVersionControl.dir\\src\\Repository.cpp.obj -c C:\\Users\\owner\\CLionProjects\\FLVersionControl\\src\\Repository.cpp",
+  "file": "C:/Users/owner/CLionProjects/FLVersionControl/src/Repository.cpp",
+  "output": "C:/Users/owner/CLionProjects/FLVersionControl/cmake-build-debug/CMakeFiles/FLVersionControl.dir/src/Repository.cpp.obj"
+},
+{
+  "directory": "C:/Users/owner/CLionProjects/FLVersionControl/cmake-build-debug",
+  "command": "\"D:\\CLion 2026.2.3.1\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\FLVersionControl.dir\\src\\Commit.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\FLVersionControl.dir\\src\\Commit.cpp.obj -c C:\\Users\\owner\\CLionProjects\\FLVersionControl\\src\\Commit.cpp",
+  "file": "C:/Users/owner/CLionProjects/FLVersionControl/src/Commit.cpp",
+  "output": "C:/Users/owner/CLionProjects/FLVersionControl/cmake-build-debug/CMakeFiles/FLVersionControl.dir/src/Commit.cpp.obj"
+}
+]

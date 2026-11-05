@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/FLVersionControl.dir/src/main.cpp.obj: dyndep
+
+build CMakeFiles/FLVersionControl.dir/src/Repository.cpp.obj: dyndep
+
+build CMakeFiles/FLVersionControl.dir/src/Commit.cpp.obj: dyndep
+
